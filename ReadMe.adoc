@@ -10,10 +10,11 @@ Describe your project
 
 == Step 1: Installation
 
+Assemble the circuit as in the circuit diagram.
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit following the diagram sketch.png attached to the sketch
 
 == Step 3: Load the code
 
@@ -24,7 +25,7 @@ Upload the code contained in this sketch on to your board
 ....
  Sim_box            => Arduino sketch folder
   ├── Sim_box_main.ino       => main Arduino file
-  ├── sketch.json            => an image of the required schematics
+  ├── sketch.png             => an image of the required schematics
   └── ReadMe.adoc            => this file
 ....
 
@@ -32,16 +33,24 @@ Upload the code contained in this sketch on to your board
 This project is released under a GNU Affero General Public License v3.0 License.
 
 === Contributing
-To contribute to this project please contact Sean Ohmann <sro18rs@gmail.com>
+To contribute to this project please contact Sean Ohmann <sro18rs@gmail.com>. Or, just make some changes and upload to the internet as in the License
 
 === BOM
 Add the bill of the materials you need for this project.
 
 |===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10       
-| L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
+| ID | Part name                       | Quantity
+| R1 | 220 Ω Resistor                  | 1      
+| P1 | 250 kΩ Potenetiometer           | 1        
+| A1 | Arduino Uno R3                  | 1        
+| L1 | 16x2 LCD Character Display      | 1
+| B1 | Momentary Switch                | 1
+| B2 | Single Pole Single Throw Switch | 1    
+| L1 | Lock Switch                     | 1    *OPTIONAL*
+| X1 | Powerboost 1000 Charger         | 1    
+| X2 | Lithium ION Batery Pack 3.7V    | 1    
+| E1 | Aluminum Project Box            | 1    
+| W1 | ***LOTS*** of assorted wiring   | ∞   
 |===
 
 
