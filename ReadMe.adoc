@@ -25,7 +25,7 @@ Upload the code contained in this sketch on to your board
 ....
  Sim_box            => Arduino sketch folder
   ├── Sim_box_main.ino       => main Arduino file
-  ├── sketch.png             => an image of the required schematics
+  ├── sketch.png             => an image of the wiring schematics
   └── ReadMe.adoc            => this file
 ....
 
