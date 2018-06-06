@@ -20,7 +20,7 @@ Assemble the circuit following the diagram sketch.png attached to the sketch
 
 == Step 3: Load the code
 
-Upload the code contained in this sketch on to your board
+Upload the code contained in this sketch on to your board. Also found at https://create.arduino.cc/editor/soviet_scar/1e99c08a-086b-41f8-aabd-5bab95f62c66/preview[Arduino Create: Sim Box Main]
 
 === Folder structure
 
