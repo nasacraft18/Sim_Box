@@ -6,7 +6,9 @@
 
 = Project: Simulated Bomb Device
 
-Describe your project
+***DISCLAIMER: THIS IS NOT AN ACTUAL BOMB. NOT MEANT TO BE PLACED IN AN ACTUAL BOMB. THIS CODE IS MEANT TO BE USED IN A SIMULATED BOMB FOR USE IN AIRSOFT, PAINTBALL AND, TRAINING SITUATIONS.***
+
+Fake bomb to be used in objective based games or training.
 
 == Step 1: Installation
 
